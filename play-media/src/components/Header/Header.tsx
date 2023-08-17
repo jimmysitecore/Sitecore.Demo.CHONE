@@ -50,11 +50,11 @@ export const Header = () => {
               DEMO SCENARIO CUSTOMIZATION
               Uncomment the next list item to enable the about us page link in the header
             ***/}
-            {/* <li>
+            {* <li>
               <Link href={'/about-us'} onClick={handleNavClose}>
                 About Us
               </Link>
-            </li> */}
+            </li> *}
             <li>
               <div className="theme-switcher" onClick={toggleThemeHandler}>
                 <div className="theme-switcher-container">
