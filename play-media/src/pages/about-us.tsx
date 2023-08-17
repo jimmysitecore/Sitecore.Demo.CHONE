@@ -42,7 +42,7 @@ export const getStaticProps = async () => {
   // DEMO SCENARIO CUSTOMIZATION:
   // Change these to the respective content ids in your Content Hub ONE instance
   const CONTENT_BLOCK_IDS = {
-    ABOUT: 'YXcFXM4yp0aKvHu5S8tmOg',
+    ABOUT: 'jSrOtm84f0KmRGZGURM8fw',
     HISTORY: 'oIjG5JYuE6JNUVx1KejPA',
     LOCATIONS: 'cSaltKGqXESGBDpQvIzlBA',
   };
